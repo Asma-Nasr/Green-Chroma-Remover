@@ -1,6 +1,7 @@
 # Green Chroma Remover
 
-This repository contains my implementation of the Green Chroma Remover task, where the goal is to remove green backgrounds from images.
+This repository contains my implementation of the Green Chroma Remover task, where the goal is to remove green backgrounds from images. Provided by Intern2Grow as part of their Image Processing
+ Virtual Internship Program.
 
 ## Task Overview
 
